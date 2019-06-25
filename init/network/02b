@@ -1,0 +1,4 @@
+#!/bin/sh
+#IP adresses of the same subnet
+arp -a | awk '{print $2}'
+

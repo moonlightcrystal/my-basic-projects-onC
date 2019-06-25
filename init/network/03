@@ -1,0 +1,3 @@
+#!/bin/sh
+#MAC address of the Wi-Fi card (en1)
+ifconfig en1 | grep 'ether ' | cut -d' ' -f2

@@ -1,0 +1,7 @@
+#!/bin/sh
+#host slash16.org // nslookup slash16.org - ip adresses
+#whois 13.32.42.100 ip 
+#https://ipinfo.io/
+#whois slash16.org
+#host -t a slash16.org - ip adress
+#The provided information is the same – Provider: Amazon.

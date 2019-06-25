@@ -1,0 +1,3 @@
+#!/bin/sh
+#network interfaces of the machine without displaying any detail for these interfaces
+ifconfig -l

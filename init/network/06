@@ -1,0 +1,3 @@
+#!/bin/sh
+#resolver is file with settings for resolver, this file has IP-address of the DNS
+cat /etc/resolv.conf  

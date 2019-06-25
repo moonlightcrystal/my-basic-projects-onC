@@ -1,0 +1,3 @@
+#!/bin/sh
+#default gateway in the routing table
+netstat -rn | grep "en0" | grep "default" | cut -c 20-31
