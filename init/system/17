@@ -1,0 +1,4 @@
+#!/bin/sh
+#command that allows you to connect via ssh on the VM (for example)
+#ssh kris@127.0.0.1 -p 2222
+ssh loginonDebian@ip -p Host port id

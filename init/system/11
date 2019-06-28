@@ -1,0 +1,3 @@
+#!/bin/sh
+#available space left and used on the system - print sizes in powers 1024
+df -h

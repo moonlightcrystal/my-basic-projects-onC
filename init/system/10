@@ -1,0 +1,3 @@
+#!/bin/sh
+# lists the partition tables of drives(root)
+fdisk -l

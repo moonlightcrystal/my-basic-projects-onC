@@ -1,0 +1,3 @@
+#!/bin/sh
+#existing users on the VM//All current users less /etc/passwd 
+awk -F: '{ print $1}' /etc/passwd

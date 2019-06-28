@@ -1,0 +1,4 @@
+#!/bin/sh
+#command for restart ssh, for check use last command (root)
+#/etc/init.d/ssh restart
+service ssh restart

@@ -1,0 +1,3 @@
+#!/bin/sh
+#kill background (your id), if you want to check type ps -aux | less & (ex 2866)
+kill -9 id

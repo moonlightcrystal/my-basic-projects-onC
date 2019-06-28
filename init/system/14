@@ -1,0 +1,3 @@
+#!/bin/sh
+#for background at the end of this command type '&' (root)
+tail -f /var/log/syslog &

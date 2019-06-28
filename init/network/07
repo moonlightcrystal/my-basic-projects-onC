@@ -1,3 +1,3 @@
 #!/bin/sh
-#DNS server on the slash16.org with DNS 1.1.1.1
-nslookup slash16.org 1.1.1.1
+#DNS server on the slash16.org with DNS 8.8.8.8
+nslookup slash16.org 8.8.8.8

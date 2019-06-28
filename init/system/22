@@ -1,0 +1,4 @@
+#!/bin/sh
+#useradd name or useradd -m name or adduser 
+#https://losst.ru/kak-udalit-polzovatelya-linux
+adduser

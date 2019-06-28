@@ -1,0 +1,3 @@
+#!/bin/sh
+#command rename my system for check use vi /etc/hostname (root)
+hostnamectl set-hostname kris

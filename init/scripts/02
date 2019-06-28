@@ -1,0 +1,8 @@
+#!/bin/sh
+#change your rights on '0' on UID and GID in dir /etc/passwd via root
+#USER=$1
+#pgrep -u $USER | while read PID; do sudo kill $PID; done
+#sudo userdel $USER
+BESTUSER=$1
+pkill -u $BESTUSER
+userdel $BESTUSER

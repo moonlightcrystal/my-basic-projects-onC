@@ -1,0 +1,11 @@
+#!/bin/sh
+#Print information about users who are currently logged in - who or w 
+#if you use w you can see a few columns Name of the user
+#1.User’s machine number or tty number
+#2.Remote machine address
+#3.User’s Login time
+#4.Idle time (not usable time)
+#5.Time used by all processes attached to the tty (JCPU time)
+#6.Time used by the current process (PCPU time)
+#7.Command currently getting executed by the users
+who
